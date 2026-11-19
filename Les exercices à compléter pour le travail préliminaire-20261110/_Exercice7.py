@@ -70,9 +70,6 @@ class Level(object):
 
            
 class Mover(object):
-    '''
-    Class to move the player and boxes
-    '''
 
     def __init__(self, level):
         self.level = level
